@@ -1,0 +1,21 @@
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\Udemy Dashboard.exe.config
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\Udemy Dashboard.exe
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\Udemy Dashboard.pdb
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\Guna.UI2.dll
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\obj\Debug\Udemy Dashboard.csproj.AssemblyReference.cache
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\obj\Debug\Udemy_Dashboard.Form1.resources
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\obj\Debug\Udemy_Dashboard.Properties.Resources.resources
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\obj\Debug\Udemy Dashboard.csproj.GenerateResource.cache
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\obj\Debug\Udemy Dashboard.csproj.CoreCompileInputs.cache
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\obj\Debug\Udemy Dashboard.csproj.CopyComplete
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\obj\Debug\Udemy Dashboard.exe
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\obj\Debug\Udemy Dashboard.pdb
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.dll
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.WinForms.dll
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.Wpf.dll
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.pdb
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.xml
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.WinForms.pdb
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.WinForms.xml
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.Wpf.pdb
+D:\ASP.net Project\Udemy Dashboard\Udemy Dashboard\bin\Debug\LiveCharts.Wpf.xml
